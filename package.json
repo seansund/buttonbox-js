@@ -1,5 +1,5 @@
 {
-  "name": "ibm-cloud-garage-method-developer-bootcamp",
+  "name": "buttonbox-js",
   "version": "1.0.0",
   "description": "scaffold for the IBM Cloud Garage Method Developer Bootcamp",
   "main": "index.js",
@@ -79,6 +79,7 @@
     "ramda": "0.22.1",
     "ramda-cli": "1.2.2",
     "rimraf": "^2.6.1",
+    "rpi-gpio": "^0.9.1",
     "rxjs": "5.0.3"
   },
   "devDependencies": {
